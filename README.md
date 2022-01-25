@@ -38,4 +38,4 @@ Here are some ideas to get you started:
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
    </p>
 
-![snake gif](https://github.com/SalihTalha/SalihTalha/blob/output/github-contribution-grid-snake.gif)
+![snake svg](https://github.com/SalihTalha/SalihTalha/blob/output/github-contribution-grid-snake.svg)
