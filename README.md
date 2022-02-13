@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <p align="left"> 
   
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://png2.cleanpng.com/sh/02ffdcc40b0135dbc7f705db9099d877/L0KzQYm3VMA5N5N3iZH0aYP2gLBuTgRmdqR0ith1b4ewdLbskL1tbZJ3htt3Zz3udcPok71uaZRtgdDuLXzoccP1if5oNZRmReZxdX3lhLLqi702aZQAeasBM3W1RYnqUr40P2Q7S6s8OUG4QoS4VsU2O2oASqk6LoDxd1==/kisspng-tensorflow-deep-learning-keras-machine-learning-ca-thumbtack-5ac9a963e258c2.3736393915231655399271.png" alt="tensorflow" width="40" height="40"/> </a> 
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png" alt="tensorflow" width="40" height="40"/> </a> 
    <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/> </a>
    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/449px-Pandas_mark.svg.png" alt="pandas" width="40" height="40"/> </a> 
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
