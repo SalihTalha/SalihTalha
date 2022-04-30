@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 <h3 align="center">Machine Learning Engineer💻 | AI Researcher 🍎⬇️😵‍💫🤔📝 | Motorcyclist 🏍️</h3>
 
 
-- 🔭 I’m currently working on **Machine Learning**
-- 🌱 I’m currently learning **NLP**!
+- 🔭 I’m currently working on **Machine Learning** and **NLP**
+- 🌱 I’m currently learning MLOps!
 - 📫 How to reach me: akgunsalihtalha@gmail.com
 - &nbsp;**M** My medium page: https://medium.com/@akgunsalihtalha
 
